@@ -12,9 +12,13 @@
   "dependencies": {
     "@railway/cli": "^3.3.1",
     "@strapi/plugin-i18n": "4.10.6",
+    "@strapi/plugin-upload": "^4.11.1",
     "@strapi/plugin-users-permissions": "4.10.6",
+    "@strapi/provider-upload-cloudinary": "^4.11.1",
     "@strapi/strapi": "4.10.6",
     "better-sqlite3": "8.0.1",
+    "cloudinary": "^1.37.1",
+    "cloudinary-core": "^2.13.0",
     "pg": "^8.11.0",
     "railway": "^2.0.17"
   },
